@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+li{
+    display:inline;
+    margin-right: 50px;
+}
+header{
+    background-color: rgb(160, 230, 206);
+    padding: 20px;
+}
+h2{
+    color:black;
+}
+font{
+    color: darkblue;
+}
+img{
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+}
+.one{
+    background-color: bisque;
+}
+.two{
+    background-color: cadetblue;
+}
+
